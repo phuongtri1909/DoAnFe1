@@ -56,6 +56,18 @@ header{
     background: url(../images/doi-tuong-cua-townhouse.jpg) no-repeat;
     background-size: cover;  
 }
+
+.button-menu{
+    width: 37px;
+    height: 37px;
+    background: #fff;  
+}
+.button-menu i{
+    font-size: 1.5rem;
+    color: #d19d7a;
+    display: flex;
+    justify-content: space-around;
+}
 .rong{
     height: 10px;
     padding-top: 45px;
@@ -71,6 +83,7 @@ header{
 }
 .navbar{
     padding: 0px;
+  
 }
 .navbar-brand h4{
     font-weight: bold;
